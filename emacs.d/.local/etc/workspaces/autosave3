@@ -1,0 +1,81 @@
+;; -*- mode: emacs-lisp; eval: (progn (pp-buffer) (indent-buffer)) -*-
+((def-persp "main"
+   ((def-buffer "starting with emacs" "/home/aiden/Documents/emacs/starting with emacs" fundamental-mode))
+   (def-wconf
+     (((min-height . 20)
+       (min-width . 82)
+       (min-height-ignore . 5)
+       (min-width-ignore . 82)
+       (min-height-safe . 2)
+       (min-width-safe . 2)
+       (min-pixel-height . 344)
+       (min-pixel-width . 656)
+       (min-pixel-height-ignore . 61)
+       (min-pixel-width-ignore . 656)
+       (min-pixel-height-safe . 34)
+       (min-pixel-width-safe . 16))
+      vc
+      (pixel-width . 1920)
+      (pixel-height . 1063)
+      (total-width . 240)
+      (total-height . 63)
+      (normal-height . 1.0)
+      (normal-width . 1.0)
+      (combination-limit)
+      (leaf
+       (pixel-width . 1920)
+       (pixel-height . 787)
+       (total-width . 240)
+       (total-height . 47)
+       (normal-height . 0.7398871119473189)
+       (normal-width . 1.0)
+       (parameters
+        (better-jumper-struct . #s(better-jumper-jump-list-struct
+                                   (0 0 .
+                                      [nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil])
+                                   -1)))
+       (buffer "*doom*"
+               (selected . t)
+               (hscroll . 0)
+               (fringes 0 0 nil nil)
+               (margins 80)
+               (scroll-bars nil 0 t nil 0 t nil)
+               (vscroll . 0)
+               (dedicated)
+               (point . 1544)
+               (start . 1))
+       (prev-buffers
+        ("*scratch*" 1 1)))
+      (leaf
+       (last . t)
+       (pixel-width . 1920)
+       (pixel-height . 276)
+       (total-width . 240)
+       (total-height . 16)
+       (normal-height . 0.26011288805268107)
+       (normal-width . 1.0)
+       (parameters
+        (window-side . bottom)
+        (window-slot . 0)
+        (ttl . 5)
+        (quit . t)
+        (select . ignore)
+        (modeline)
+        (window-vslot . 99)
+        (popup . t)
+        (better-jumper-struct . #s(better-jumper-jump-list-struct
+                                   (0 0 .
+                                      [nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil])
+                                   -1)))
+       (buffer "*Warnings*"
+               (selected)
+               (hscroll . 0)
+               (fringes 0 0 nil nil)
+               (margins 1 . 1)
+               (scroll-bars nil 0 t nil 0 t nil)
+               (vscroll . 0)
+               (dedicated . popup)
+               (point . 140)
+               (start . 1)))))
+   (def-params nil)
+   nil nil nil))

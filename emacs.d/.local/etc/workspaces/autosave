@@ -1,0 +1,45 @@
+;; -*- mode: emacs-lisp; eval: (progn (pp-buffer) (indent-buffer)) -*-
+((def-persp "main"
+   ((def-buffer "config.save" "/home/aiden/.config/i3/config.save" conf-space-mode)
+    (def-buffer "config" "/home/aiden/.config/i3/config" fundamental-mode))
+   (def-wconf
+     (((min-height . 4)
+       (min-width . 10)
+       (min-height-ignore . 3)
+       (min-width-ignore . 3)
+       (min-height-safe . 1)
+       (min-width-safe . 2)
+       (min-pixel-height . 68)
+       (min-pixel-width . 80)
+       (min-pixel-height-ignore . 43)
+       (min-pixel-width-ignore . 18)
+       (min-pixel-height-safe . 17)
+       (min-pixel-width-safe . 16))
+      leaf
+      (pixel-width . 1920)
+      (pixel-height . 1063)
+      (total-width . 240)
+      (total-height . 62)
+      (normal-height . 1.0)
+      (normal-width . 1.0)
+      (parameters
+       (better-jumper-struct . #s(better-jumper-jump-list-struct
+                                  (0 0 .
+                                     [nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil])
+                                  -1)))
+      (buffer "config"
+              (selected . t)
+              (hscroll . 0)
+              (fringes 1 1 nil nil)
+              (margins nil)
+              (scroll-bars nil 0 t nil 0 t nil)
+              (vscroll . 0)
+              (dedicated)
+              (point . 108)
+              (start . 1))
+      (prev-buffers
+       ("config.save" 1 1)
+       ("*doom*" 1 1552)
+       ("*scratch*" 1 1))))
+   (def-params nil)
+   nil nil nil))

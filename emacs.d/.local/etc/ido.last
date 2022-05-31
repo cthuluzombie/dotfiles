@@ -1,0 +1,39 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/aiden/.config/" . "i3/")
+ ("/home/aiden/Documents/" . "emacs/")
+ ("/home/aiden/" . ".config/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/aiden/.config/i3/"
+ "/home/aiden/Documents/emacs/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "config"
+ "config.save"
+ "starting with emacs"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/aiden/.config/eDEX-UI/" (25220 50301 286308 405000) "Cache/" "Session Storage/" "Code Cache/" "blob_storage/" "versions_log.json" "Cookies" "SS" "geoIPcache/" "themes/" "keyboards/" "SingletonLock" "SingletonCookie" "Preferences" "Crash Reports/" "Local Storage/" "../" "GPUCache/" "./" "fonts/" "Cookies-journal" "shortcuts.json" "Dictionaries/" "settings.json" "lastWindowState.json" "Network Persistent State")
+
+ ("/home/aiden/.config/i3/" (25220 25266 227719 302000) "config.save" "lock.sh" "../" "./" "config")
+
+ ("/home/aiden/.config/" (25219 6152 667132 66000) "menus/" "compiz-1/" "enchant/" "nemo/" "tint2/" "cinnamon-session/" "i3/" "xreader/" "nitrogen/" "user-dirs.locale" "xed/" "systemd/" "pulse/" "rofi/" "terminator/" "openbox/" "autostart/" "cef_user_data/" "Code/" "hexchat/" "caja/" "evolution/" "dconf/" "qt5ct/" "user-dirs.dirs" "Raspberry Pi/" "google-chrome/" "../" "libreoffice/" "goa-1.0/" "mimeapps.list" "./" "gtk-2.0/" "neofetch/" "gtk-3.0/" "htop/" "emacs/" "xviewer/" "bitburner/" "celluloid/" "unity3d/" "dunst/")
+
+ ("/home/aiden/" (25220 25424 391712 678000) ".pki/" ".gtkrc-2.0" "Pictures/" ".lyxauth" ".bash_history" ".doom.d/" "Music/" ".local/" "dot-files/" ".wget-hsts" ".bashrc" ".icons/" ".sudo_as_admin_successful" ".linuxmint/" "Steam/" ".emacs~" ".pulse-cookie" ".emacs.d/" "Templates/" ".themes/" ".steam/" ".config/" ".vscode/" ".fehbg" ".gnupg/" "Videos/" ".var/" ".Xauthority" "Desktop/" "../" ".dmrc" ".gtkrc-xfce" ".putty/" ".steampath" "./" ".cinnamon/" "Downloads/" ".dbus/" ".xsession-errors" ".mozilla/" ".bash_logout" ".hypnotix/" ".fonts/" ".xsession-errors.old" ".gitconfig" "Public/" "Documents/" ".steampid" ".cache/" ".profile")
+
+ ("/home/aiden/Documents/emacs/" (25217 42134 64172 539000) "starting with emacs" "../" "./" "starting with emacs~")
+
+ ("/home/aiden/Documents/" (25219 8252 278727 533000) "school" "../" "./" "emacs/" "emacs-27.2/" "picom/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

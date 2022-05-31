@@ -1,0 +1,1 @@
+/home/aiden/.emacs.d/.local/straight/repos/emacsql/emacsql.el
