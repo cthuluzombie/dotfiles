@@ -1,0 +1,22 @@
+{
+   "ExtensionDescription": {
+      "description": "Description of the extension used in the extensions store",
+      "message": "Офіційне розширення Microsoft нагадуватиме вам про гру Xbox, коли ви користуєтеся браузером ."
+   },
+   "ExtensionName": {
+      "description": "Name of the extension used in the extensions store",
+      "message": "Xbox New Tab"
+   },
+   "ExtensionShortName": {
+      "description": "Short name of the extension used in the extensions store",
+      "message": "Xbox New Tab"
+   },
+   "ExtnLanguage": {
+      "description": "Language",
+      "message": "uk-ua"
+   },
+   "newtabPageTitle": {
+      "description": "New tab page title",
+      "message": "Xbox New Tab"
+   }
+}

@@ -1,0 +1,22 @@
+{
+   "ExtensionDescription": {
+      "description": "Description of the extension used in the extensions store",
+      "message": "Mit dieser offiziellen Erweiterung von Microsoft bist du stets direkt in deinem Browser mit Xbox verbunden."
+   },
+   "ExtensionName": {
+      "description": "Name of the extension used in the extensions store",
+      "message": "Xbox New Tab"
+   },
+   "ExtensionShortName": {
+      "description": "Short name of the extension used in the extensions store",
+      "message": "Xbox New Tab"
+   },
+   "ExtnLanguage": {
+      "description": "Language",
+      "message": "de-de"
+   },
+   "newtabPageTitle": {
+      "description": "New tab page title",
+      "message": "Xbox New Tab"
+   }
+}

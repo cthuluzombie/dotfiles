@@ -1,0 +1,22 @@
+{
+   "ExtensionDescription": {
+      "description": "Description of the extension used in the extensions store",
+      "message": "Rimani connesso con Xbox nel tuo browser grazie a questa estensione ufficiale di Microsoft."
+   },
+   "ExtensionName": {
+      "description": "Name of the extension used in the extensions store",
+      "message": "Nuova scheda Xbox"
+   },
+   "ExtensionShortName": {
+      "description": "Short name of the extension used in the extensions store",
+      "message": "Nuova scheda Xbox"
+   },
+   "ExtnLanguage": {
+      "description": "Language",
+      "message": "it-it"
+   },
+   "newtabPageTitle": {
+      "description": "New tab page title",
+      "message": "Xbox New Tab"
+   }
+}

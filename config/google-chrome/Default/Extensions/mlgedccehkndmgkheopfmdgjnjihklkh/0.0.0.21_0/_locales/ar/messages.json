@@ -1,0 +1,22 @@
+{
+   "ExtensionDescription": {
+      "description": "Description of the extension used in the extensions store",
+      "message": "ابق على اتصال مع Xbox في متصفحك مع هذا الملحق الرسمي من Microsoft."
+   },
+   "ExtensionName": {
+      "description": "Name of the extension used in the extensions store",
+      "message": "Xbox New Tab"
+   },
+   "ExtensionShortName": {
+      "description": "Short name of the extension used in the extensions store",
+      "message": "Xbox New Tab"
+   },
+   "ExtnLanguage": {
+      "description": "Language",
+      "message": "ar-sa"
+   },
+   "newtabPageTitle": {
+      "description": "New tab page title",
+      "message": "Xbox New Tab"
+   }
+}

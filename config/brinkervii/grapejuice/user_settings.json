@@ -1,0 +1,79 @@
+{
+  "__version__": 2,
+  "__hardware_profile__": {
+    "graphics_id": "6082957897d489de2789752225dd3f96ad0d2c3297b2f93b37307ff072769bad",
+    "gpu_vendor_id": 1,
+    "gpu_pci_id": "01:00.0",
+    "gpu_can_do_vulkan": true,
+    "provider_index": 1,
+    "provider_name": "KAVERI @ pci:0000:00:01.0",
+    "should_prime": false,
+    "use_mesa_gl_override": false,
+    "preferred_roblox_renderer_string": "Vulkan",
+    "is_multi_gpu": true,
+    "version": 2
+  },
+  "show_fast_flag_warning": true,
+  "no_daemon_mode": true,
+  "release_channel": "master",
+  "disable_updates": false,
+  "ignore_wine_version": false,
+  "try_profiling_hardware": true,
+  "wineprefixes": [
+    {
+      "id": "6695889d-b52f-4edd-a09b-04101bb22e39",
+      "priority": 0,
+      "name_on_disk": "player",
+      "display_name": "Player",
+      "wine_home": "/home/aiden/.local/share/grapejuice/user/wine-download/wine-tkg-staging-fsync-git-7.2.r0.g68441b1d",
+      "dll_overrides": "dxdiagn=;winemenubuilder.exe=",
+      "prime_offload_sink": -1,
+      "use_mesa_gl_override": false,
+      "enable_winedebug": false,
+      "winedebug_string": "",
+      "roblox_renderer": "Vulkan",
+      "env": {},
+      "hints": [
+        "player",
+        "app"
+      ],
+      "fast_flags": {
+        "roblox_studio": {},
+        "roblox_player": {},
+        "roblox_app": {}
+      },
+      "third_party": {
+        "fps_unlocker": false,
+        "dxvk": false
+      }
+    },
+    {
+      "id": "cb2b8568-e8c7-4c96-be7e-6c652e8e0303",
+      "priority": 0,
+      "name_on_disk": "studio",
+      "display_name": "Studio",
+      "wine_home": "/home/aiden/.local/share/grapejuice/user/wine-download/wine-tkg-staging-fsync-git-7.2.r0.g68441b1d",
+      "dll_overrides": "dxdiagn=;winemenubuilder.exe=",
+      "prime_offload_sink": -1,
+      "use_mesa_gl_override": false,
+      "enable_winedebug": false,
+      "winedebug_string": "",
+      "roblox_renderer": "D3D11",
+      "env": {},
+      "hints": [
+        "studio"
+      ],
+      "fast_flags": {
+        "roblox_studio": {},
+        "roblox_player": {},
+        "roblox_app": {}
+      },
+      "third_party": {
+        "fps_unlocker": false,
+        "dxvk": false
+      }
+    }
+  ],
+  "unsupported_settings": {},
+  "default_wine_home": "/home/aiden/.local/share/grapejuice/user/wine-download/wine-tkg-staging-fsync-git-7.2.r0.g68441b1d"
+}

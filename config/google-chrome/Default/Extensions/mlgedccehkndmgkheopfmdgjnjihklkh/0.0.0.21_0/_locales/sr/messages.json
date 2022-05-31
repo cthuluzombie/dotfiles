@@ -1,0 +1,22 @@
+{
+   "ExtensionDescription": {
+      "description": "Description of the extension used in the extensions store",
+      "message": "Будите повезани са игром Xbox у свом прегледачу уз ово званично проширење корпорације Microsoft."
+   },
+   "ExtensionName": {
+      "description": "Name of the extension used in the extensions store",
+      "message": "Xbox New Tab"
+   },
+   "ExtensionShortName": {
+      "description": "Short name of the extension used in the extensions store",
+      "message": "Xbox New Tab"
+   },
+   "ExtnLanguage": {
+      "description": "Language",
+      "message": "sr-cyrl"
+   },
+   "newtabPageTitle": {
+      "description": "New tab page title",
+      "message": "Xbox New Tab"
+   }
+}

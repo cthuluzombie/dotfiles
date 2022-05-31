@@ -1,0 +1,181 @@
+[2022-05-09 10:30:05.544] [info]  Started app: ["/home/aiden/.steam/debian-installation/steamapps/common/Bitburner/bitburner","--no-sandbox"]
+[2022-05-09 10:30:05.638] [info]  Steam API has been initialized.
+[2022-05-09 10:30:05.747] [info]  Application is ready!
+[2022-05-09 10:30:07.617] [warn]  '/home/aiden/.config/bitburner/saves' not found, creating it...
+[2022-05-09 10:30:07.627] [warn]  '/home/aiden/.config/bitburner/saves/90ae34bab4b1a' not found, creating it...
+[2022-05-09 10:30:07.628] [warn]  '/home/aiden/.config/bitburner/saves/_backups' not found, creating it...
+[2022-05-09 10:30:07.857] [error] Could not retrieve steam file
+[2022-05-09 10:30:07.860] [info]  No data to import
+[2022-05-09 10:42:20.170] [info]  Granting Steam achievement FIRST_HACKNET_NODE
+[2022-05-09 11:16:19.949] [info]  Granting Steam achievement WORKOUT
+[2022-05-09 12:13:35.440] [info]  Started app: ["/home/aiden/.steam/debian-installation/steamapps/common/Bitburner/bitburner","--no-sandbox"]
+[2022-05-09 12:13:35.545] [info]  Steam API has been initialized.
+[2022-05-09 12:13:35.656] [info]  Application is ready!
+[2022-05-09 12:13:37.590] [error] Could not retrieve steam file
+[2022-05-09 12:21:50.008] [info]  Granting Steam achievement NS2
+[2022-05-09 12:26:50.122] [info]  Granting Steam achievement TOR
+[2022-05-09 14:08:49.217] [info]  Granting Steam achievement HOSPITALIZED
+[2022-05-09 14:57:49.250] [info]  Granting Steam achievement BRUTESSH.EXE
+[2022-05-09 15:12:49.549] [info]  Granting Steam achievement HACKNET_NODE_10M
+[2022-05-09 16:06:49.669] [info]  Granting Steam achievement INSTALL_1
+[2022-05-09 16:48:49.623] [info]  Granting Steam achievement CYBERSEC
+[2022-05-09 18:04:49.715] [info]  Granting Steam achievement FTPCRACK.EXE
+[2022-05-09 18:04:49.715] [info]  Granting Steam achievement RELAYSMTP.EXE
+[2022-05-09 18:48:26.599] [info]  Starting http server on port 9990 - listening on 127.0.0.1
+[2022-05-09 18:48:27.989] [info]  New autostart value is 'true'
+[2022-05-09 18:48:31.764] [info]  Stopping http server
+[2022-05-09 18:48:34.448] [info]  New autostart value is 'false'
+[2022-05-09 18:54:51.968] [info]  Reset zoom
+[2022-05-09 23:34:29.464] [warn]  API server not listening
+[2022-05-09 23:34:37.320] [info]  Quitting the app...
+[2022-05-10 08:09:01.663] [info]  Started app: ["/home/aiden/.steam/debian-installation/steamapps/common/Bitburner/bitburner","--no-sandbox"]
+[2022-05-10 08:09:01.812] [info]  Steam API has been initialized.
+[2022-05-10 08:09:03.194] [info]  Application is ready!
+[2022-05-10 11:02:23.486] [info]  Granting Steam achievement HTTPWORM.EXE
+[2022-05-10 11:09:02.542] [info]  Starting http server on port 9990 - listening on 127.0.0.1
+[2022-05-10 11:09:03.723] [info]  New autostart value is 'true'
+[2022-05-10 11:09:05.649] [info]  Wrote authentication token to clipboard
+[2022-05-10 11:09:52.020] [info]  Wrote authentication token to clipboard
+[2022-05-10 11:22:16.789] [info]  Stopping http server
+[2022-05-10 11:22:18.435] [info]  New autostart value is 'false'
+[2022-05-10 15:05:23.235] [info]  Granting Steam achievement NITESEC
+[2022-05-10 15:21:16.692] [warn]  API server not listening
+[2022-05-10 15:21:16.973] [info]  Quitting the app...
+[2022-05-10 17:01:49.410] [info]  Started app: ["/home/aiden/.steam/debian-installation/steamapps/common/Bitburner/bitburner","--no-sandbox"]
+[2022-05-10 17:01:50.161] [info]  Steam API has been initialized.
+[2022-05-10 17:01:52.401] [info]  Application is ready!
+[2022-05-10 17:24:12.368] [info]  Granting Steam achievement MAX_HACKNET_NODE
+[2022-05-10 17:27:12.439] [info]  Granting Steam achievement THE_BLACK_HAND
+[2022-05-10 23:17:20.488] [info]  Granting Steam achievement SQLINJECT.EXE
+[2022-05-10 23:30:08.997] [warn]  API server not listening
+[2022-05-10 23:30:09.290] [info]  Quitting the app...
+[2022-05-10 23:30:45.052] [info]  Started app: ["/home/aiden/.steam/debian-installation/steamapps/common/Bitburner/bitburner","--no-sandbox"]
+[2022-05-10 23:30:45.163] [info]  Steam API has been initialized.
+[2022-05-10 23:30:45.276] [info]  Application is ready!
+[2022-05-10 23:30:55.763] [warn]  API server not listening
+[2022-05-10 23:30:55.968] [info]  Quitting the app...
+[2022-05-11 09:07:40.503] [info]  Started app: ["/home/aiden/.steam/debian-installation/steamapps/common/Bitburner/bitburner","--no-sandbox"]
+[2022-05-11 09:07:40.651] [info]  Steam API has been initialized.
+[2022-05-11 09:07:42.393] [info]  Application is ready!
+[2022-05-11 09:19:03.958] [info]  Granting Steam achievement DRAIN_SERVER
+[2022-05-11 11:27:35.167] [warn]  API server not listening
+[2022-05-11 11:27:35.467] [info]  Quitting the app...
+[2022-05-11 12:10:26.460] [info]  Started app: ["/home/aiden/.steam/debian-installation/steamapps/common/Bitburner/bitburner","--no-sandbox"]
+[2022-05-11 12:10:26.571] [info]  Steam API has been initialized.
+[2022-05-11 12:10:26.701] [info]  Application is ready!
+[2022-05-11 12:23:50.835] [warn]  API server not listening
+[2022-05-11 12:23:51.127] [info]  Quitting the app...
+[2022-05-11 12:41:16.372] [info]  Started app: ["/home/aiden/.steam/debian-installation/steamapps/common/Bitburner/bitburner","--no-sandbox"]
+[2022-05-11 12:41:16.523] [info]  Steam API has been initialized.
+[2022-05-11 12:41:16.730] [info]  Application is ready!
+[2022-05-11 15:47:16.773] [info]  Started app: ["/home/aiden/.steam/debian-installation/steamapps/common/Bitburner/bitburner","--no-sandbox"]
+[2022-05-11 15:47:16.876] [info]  Steam API has been initialized.
+[2022-05-11 15:47:17.002] [info]  Application is ready!
+[2022-05-11 15:51:13.650] [warn]  API server not listening
+[2022-05-11 15:51:13.931] [info]  Quitting the app...
+[2022-05-11 20:42:48.191] [info]  Started app: ["/home/aiden/.steam/debian-installation/steamapps/common/Bitburner/bitburner","--no-sandbox"]
+[2022-05-11 20:42:48.302] [info]  Steam API has been initialized.
+[2022-05-11 20:42:48.421] [info]  Application is ready!
+[2022-05-11 21:00:37.051] [warn]  API server not listening
+[2022-05-11 21:00:37.348] [info]  Quitting the app...
+[2022-05-12 09:06:32.024] [info]  Started app: ["/home/aiden/.steam/debian-installation/steamapps/common/Bitburner/bitburner","--no-sandbox"]
+[2022-05-12 09:06:33.714] [info]  Steam API has been initialized.
+[2022-05-12 09:06:44.312] [info]  Application is ready!
+[2022-05-12 10:42:27.038] [warn]  API server not listening
+[2022-05-12 10:42:27.330] [info]  Quitting the app...
+[2022-05-12 13:22:17.247] [info]  Started app: ["/home/aiden/.steam/debian-installation/steamapps/common/Bitburner/bitburner","--no-sandbox"]
+[2022-05-12 13:22:17.995] [info]  Steam API has been initialized.
+[2022-05-12 13:22:19.192] [info]  Application is ready!
+[2022-05-12 13:24:38.158] [info]  Granting Steam achievement BITRUNNERS
+[2022-05-12 14:56:36.234] [info]  Granting Steam achievement DONATION
+[2022-05-12 15:12:58.161] [warn]  API server not listening
+[2022-05-12 15:12:58.454] [info]  Quitting the app...
+[2022-05-12 15:25:53.013] [info]  Started app: ["/home/aiden/.steam/debian-installation/steamapps/common/Bitburner/bitburner","--no-sandbox"]
+[2022-05-12 15:25:53.115] [info]  Steam API has been initialized.
+[2022-05-12 15:25:53.247] [info]  Application is ready!
+[2022-05-12 17:24:10.838] [warn]  API server not listening
+[2022-05-12 17:24:11.123] [info]  Quitting the app...
+[2022-05-12 20:17:28.038] [info]  Started app: ["/home/aiden/.steam/debian-installation/steamapps/common/Bitburner/bitburner","--no-sandbox"]
+[2022-05-12 20:17:28.199] [info]  Steam API has been initialized.
+[2022-05-12 20:17:28.346] [info]  Application is ready!
+[2022-05-12 20:25:42.697] [info]  Granting Steam achievement DEVMENU
+[2022-05-12 20:32:43.856] [info]  Granting Steam achievement REPUTATION_10M
+[2022-05-12 20:44:44.157] [info]  Granting Steam achievement DAEDALUS
+[2022-05-12 20:46:44.186] [info]  Granting Steam achievement FORMULAS.EXE
+[2022-05-12 20:51:44.305] [info]  Granting Steam achievement SF1.1
+[2022-05-12 20:53:44.370] [info]  Granting Steam achievement FIRST_HACKNET_SERVER
+[2022-05-12 20:54:44.378] [info]  Granting Steam achievement ALL_HACKNET_SERVER
+[2022-05-12 20:54:44.379] [info]  Granting Steam achievement 30_HACKNET_NODE
+[2022-05-12 20:55:44.400] [info]  Granting Steam achievement MAX_CACHE
+[2022-05-12 20:56:44.554] [info]  Granting Steam achievement CORPORATION
+[2022-05-12 20:57:44.472] [info]  Granting Steam achievement HACKNET_SERVER_1B
+[2022-05-12 21:07:43.786] [info]  Granting Steam achievement MONEY_1Q
+[2022-05-12 21:08:44.721] [info]  Granting Steam achievement MAX_HACKNET_SERVER
+[2022-05-12 21:09:44.775] [info]  Granting Steam achievement QUEUE_40
+[2022-05-12 21:10:43.776] [info]  Granting Steam achievement INSTALL_100
+[2022-05-12 21:10:43.777] [info]  Granting Steam achievement COMBAT_3000
+[2022-05-12 21:10:54.758] [info]  Granting Steam achievement FAST_BN
+[2022-05-12 21:12:43.784] [info]  Granting Steam achievement SF9.1
+[2022-05-12 21:15:43.861] [info]  Granting Steam achievement SF10.1
+[2022-05-12 21:16:43.875] [info]  Granting Steam achievement INTELLIGENCE_255
+[2022-05-12 21:18:43.911] [info]  Granting Steam achievement SF5.1
+[2022-05-12 21:19:43.956] [info]  Granting Steam achievement BLADEBURNER_DIVISION
+[2022-05-12 21:21:43.974] [info]  Granting Steam achievement THE_COVENANT
+[2022-05-12 21:21:43.975] [info]  Granting Steam achievement ILLUMINATI
+[2022-05-12 21:21:43.975] [info]  Granting Steam achievement SF2.1
+[2022-05-12 21:21:43.975] [info]  Granting Steam achievement SF3.1
+[2022-05-12 21:21:43.976] [info]  Granting Steam achievement SF4.1
+[2022-05-12 21:21:43.976] [info]  Granting Steam achievement SF6.1
+[2022-05-12 21:21:43.976] [info]  Granting Steam achievement SF7.1
+[2022-05-12 21:21:43.977] [info]  Granting Steam achievement SF8.1
+[2022-05-12 21:21:43.977] [info]  Granting Steam achievement SF11.1
+[2022-05-12 21:21:43.977] [info]  Granting Steam achievement SF12.1
+[2022-05-12 21:21:43.978] [info]  Granting Steam achievement MONEY_M1B
+[2022-05-12 21:21:43.978] [info]  Granting Steam achievement HACKING_100000
+[2022-05-12 21:21:43.978] [info]  Granting Steam achievement NEUROFLUX_255
+[2022-05-12 21:21:43.979] [info]  Granting Steam achievement FROZE
+[2022-05-12 21:21:43.979] [info]  Granting Steam achievement RUNNING_SCRIPTS_1000
+[2022-05-12 21:21:43.980] [info]  Granting Steam achievement MAX_RAM
+[2022-05-12 21:21:43.980] [info]  Granting Steam achievement MAX_CORES
+[2022-05-12 21:21:43.980] [info]  Granting Steam achievement SCRIPTS_30
+[2022-05-12 21:21:43.981] [info]  Granting Steam achievement KARMA_1000000
+[2022-05-12 21:21:43.981] [info]  Granting Steam achievement STOCK_1q
+[2022-05-12 21:21:43.981] [info]  Granting Steam achievement DISCOUNT
+[2022-05-12 21:21:43.982] [info]  Granting Steam achievement SCRIPT_32GB
+[2022-05-12 21:21:43.982] [info]  Granting Steam achievement TRAVEL
+[2022-05-12 21:21:43.982] [info]  Granting Steam achievement GANG
+[2022-05-12 21:21:43.983] [info]  Granting Steam achievement FULL_GANG
+[2022-05-12 21:21:43.983] [info]  Granting Steam achievement GANG_TERRITORY
+[2022-05-12 21:21:43.984] [info]  Granting Steam achievement GANG_MEMBER_POWER
+[2022-05-12 21:21:43.984] [info]  Granting Steam achievement CORPORATION_BRIBE
+[2022-05-12 21:21:43.984] [info]  Granting Steam achievement CORPORATION_PROD_1000
+[2022-05-12 21:21:43.985] [info]  Granting Steam achievement CORPORATION_EMPLOYEE_3000
+[2022-05-12 21:21:43.985] [info]  Granting Steam achievement CORPORATION_REAL_ESTATE
+[2022-05-12 21:21:43.985] [info]  Granting Steam achievement BLADEBURNER_OVERCLOCK
+[2022-05-12 21:21:43.986] [info]  Granting Steam achievement BLADEBURNER_UNSPENT_100000
+[2022-05-12 21:21:43.986] [info]  Granting Steam achievement 4S
+[2022-05-12 21:21:43.986] [info]  Granting Steam achievement SLEEVE_8
+[2022-05-12 21:21:43.986] [info]  Granting Steam achievement INDECISIVE
+[2022-05-12 21:21:43.987] [info]  Granting Steam achievement CHALLENGE_BN1
+[2022-05-12 21:21:43.987] [info]  Granting Steam achievement CHALLENGE_BN2
+[2022-05-12 21:21:43.987] [info]  Granting Steam achievement CHALLENGE_BN3
+[2022-05-12 21:21:43.988] [info]  Granting Steam achievement CHALLENGE_BN6
+[2022-05-12 21:21:43.988] [info]  Granting Steam achievement CHALLENGE_BN7
+[2022-05-12 21:21:43.988] [info]  Granting Steam achievement CHALLENGE_BN8
+[2022-05-12 21:21:43.989] [info]  Granting Steam achievement CHALLENGE_BN9
+[2022-05-12 21:21:43.989] [info]  Granting Steam achievement CHALLENGE_BN10
+[2022-05-12 21:21:43.989] [info]  Granting Steam achievement CHALLENGE_BN12
+[2022-05-12 21:21:43.989] [info]  Granting Steam achievement BYPASS
+[2022-05-12 21:21:43.990] [info]  Granting Steam achievement PROTOTYPETAMPERING
+[2022-05-12 21:21:43.991] [info]  Granting Steam achievement UNCLICKABLE
+[2022-05-12 21:21:43.991] [info]  Granting Steam achievement UNDOCUMENTEDFUNCTIONCALL
+[2022-05-12 21:21:43.992] [info]  Granting Steam achievement TIMECOMPRESSION
+[2022-05-12 21:21:43.992] [info]  Granting Steam achievement REALITYALTERATION
+[2022-05-12 21:21:43.992] [info]  Granting Steam achievement N00DLES
+[2022-05-12 21:21:43.993] [info]  Granting Steam achievement EDITSAVEFILE
+[2022-05-12 21:21:43.993] [info]  Granting Steam achievement UNACHIEVABLE
+[2022-05-12 21:21:43.994] [info]  Granting Steam achievement CHALLENGE_BN13
+[2022-05-12 21:21:43.995] [info]  Granting Steam achievement RAINBOW
+[2022-05-12 21:21:43.995] [info]  Granting Steam achievement TRUE_RECURSION
+[2022-05-12 21:22:32.894] [warn]  API server not listening
+[2022-05-12 21:22:33.162] [info]  Quitting the app...

@@ -1,0 +1,34 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js", "ping.js", "notifications.js", "onMessage.js", "extensionTracking.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "images/16x16.png",
+         "32": "images/32x32.png"
+      }
+   },
+   "chrome_url_overrides": {
+      "newtab": "newtab.html"
+   },
+   "default_locale": "en",
+   "description": "__MSG_ExtensionDescription__",
+   "externally_connectable": {
+      "matches": [ "http://*.msn.com/*", "https://*.msn.com/*", "http://*.microsoft.com/*", "https://*.microsoft.com/*", "http://*.bing.com/*", "https://*.bing.com/*" ]
+   },
+   "icons": {
+      "128": "images/128x128.png",
+      "16": "images/16x16.png",
+      "32": "images/32x32.png",
+      "48": "images/48x48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAppLm3lkAIR7aaZrTsP/mwFnjKw8cWY7sOqdNxhSIjwThvwshkTdd9zRc4CdSdieibO+9n3MAcUwO9aF4vD6Yrf8TcJ3JgpBLmW04jQnen/TqWeiVvzMKRxqLpHsE5xcSv4cmAON/n2RCnKRvHLJwj76xbiaQjPUr+NTVlG6kXer/KW/zUnNiVU9nLQ+mCe2MFlk/ZWSt0rcAAl4qXVs4xHoHM/A9EDF8OQz7Z/qZgskvwAUqciQT8pD0Z95W7iIfGSDKLmLSMNWaOpmFVjAGP6uLJ7HCuNt5o9K/w3f6o3BPU0kIp+AMRYTXCiGAhKv52lEwcXH5ust5uwSR+Ih9bQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_ExtensionName__",
+   "optional_permissions": [ "topSites", "chrome://favicon/" ],
+   "permissions": [ "cookies", "management", "tabs", "http://*/*", "https://*/*", "notifications", "alarms" ],
+   "short_name": "__MSG_ExtensionShortName__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.0.21"
+}

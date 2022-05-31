@@ -1,0 +1,4 @@
+game:
+  args: app
+  exe: /home/aiden/Games/roblox/roblox
+  working_dir: /home/aiden/Games/roblox

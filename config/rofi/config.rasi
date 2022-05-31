@@ -1,0 +1,8 @@
+configuration {
+ modi: "drun,combi";
+ font: "hack 10";
+ combi-modi: "drun,ssh";
+ }
+@theme "~/.config/rofi/themes/dt-center.rasi"
+
+@import "/usr/share/rofi/themes/arthur.rasi"

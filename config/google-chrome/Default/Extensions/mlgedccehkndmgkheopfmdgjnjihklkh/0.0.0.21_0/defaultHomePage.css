@@ -1,0 +1,61 @@
+.search_controls {
+    display: inline-block;
+}
+
+.b_searchboxForm {
+    border-radius: 6px;
+    background-color: #fff;
+    border: 1px #ccc solid;
+    padding: 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,.3);
+    position: relative;
+    display: inline-block;
+    font: 18px/normal 'Segoe UI',Arial,Helvetica,Sans-Serif;
+}
+
+.b_searchbox {
+    border-style: none;
+    min-width: 607px;
+    margin: 8px 5px 0 10px;
+    height: 30px;
+    font-size: 16px;
+    line-height: 20px;
+    outline: none;
+}
+
+#sb_go_par {
+    display: inline;
+}
+
+.b_searchboxSubmit {
+    background: transparent url(images/hpc26.png) no-repeat;
+    background-position: -169px -63px;
+    border: 8px solid transparent;
+    cursor: pointer;
+    height: 50px;
+    width: 50px;
+    text-indent: -99em;
+}
+
+.default_background {
+    background-image: url(images/default_background.jpg);
+    background-color: white;
+    position: absolute;
+    top: 0;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.sw_sform {
+    position: relative;
+    top: 45%;
+    left: auto;
+    transform: translateY(-80%);
+    width: 1028px;
+    margin: auto;
+    z-index: 8;
+}

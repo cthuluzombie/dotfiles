@@ -1,0 +1,40 @@
+{
+   "checksum": "5f63d960ec6cac24daabed53e4bf8926",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13297911078938748",
+            "guid": "c430c160-d2cb-4905-b0f3-ee103ba58c49",
+            "id": "5",
+            "name": "Xbox Cloud Gaming (Beta) on Xbox.com",
+            "type": "url",
+            "url": "https://www.xbox.com/en-US/play"
+         } ],
+         "date_added": "13297910886861542",
+         "date_modified": "13297911078938748",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13297910886861544",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13297910886861547",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

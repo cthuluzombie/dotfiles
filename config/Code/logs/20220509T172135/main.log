@@ -1,0 +1,8 @@
+[2022-05-09 17:21:35.463] [main] [info] window#load: attempt to load window (id: 1)
+[2022-05-09 17:21:35.486] [main] [info] update#setState idle
+[2022-05-09 17:21:35.516] [main] [info] ExtensionHostStarterWorker created
+[2022-05-09 17:21:37.339] [main] [info] window#load: window reported ready (id: 1)
+[2022-05-09 17:21:37.895] [main] [info] Starting extension host with pid 17370 (fork() took 45 ms).
+[2022-05-09 17:21:37.895] [main] [info] ExtensionHostStarterWorker.start() took 59 ms.
+[2022-05-09 17:21:38.628] [main] [info] Waiting for extension host with pid 17370 to exit.
+[2022-05-09 17:21:38.673] [main] [info] Extension host with pid 17370 exited with code: 0, signal: null.
