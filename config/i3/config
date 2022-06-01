@@ -2,7 +2,6 @@
 # my stuff
 exec feh --bg-fill $HOME/Pictures/windows-10-uhd-4k-wallpaper.jpg
 exec compton
-exec conky
 for_window [title="pulsewindow"] floating enable
 bindsym $mod+p exec i3run --title pulsewindow -- gnome-terminal --title pulsewindow -e pulsemixer
 #################
